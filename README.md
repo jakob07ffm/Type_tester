@@ -12,3 +12,4 @@ This project is a simple Typing Speed Test application built using HTML, CSS, an
 - **Word Count**: Counts the number of words typed.
 - **CPM (Characters Per Minute)**: Calculates the typing speed in terms of characters per minute.
 - **Reset Functionality**: Allows the user to reset the test and start again.
+![](type.JPG)
